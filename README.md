@@ -62,7 +62,7 @@ Be sure that the version of Chromedriver is the same of your Chrome application.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/github_username/repo_name.git
+   git clone https://github.com/lorenzodegiorgi/InstagramQuote
    ```
    
 2. Install libraries
